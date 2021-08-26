@@ -23,7 +23,7 @@ The webpage is composed of 6 parts as seen in the image above. Using the multipl
 
 1. **Navigation Bar** - The text "UFO Sightings" text will refresh the page when clicked.
 2. **Page Header** - An image was used as background of the header for styling purposes.
-3. **Article Title** - An article was added to give the readers a background of what the page is about and to be able to grab their attention as well. Visiting a page with just a table and no customization would appear dull to visitors.
+3. **Article Title** - An article was added to give the readers a background of what the page is about and to be able to grab their attention as well. Visiting a page with just a table and no customization would appear dull any reader/visitor.
 4. **Article Paragraph** - The article paragraph was placed in line with the title to give the page an organized look.
 5. **Table Filters** - There are 5 search filters available to the user, namely, Date, City, State, Country, and Shape.
     - When the page is initially loaded, with the *index.html* file, it displays all of the table data. 
