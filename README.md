@@ -23,11 +23,11 @@ The webpage is composed of 6 parts as seen in the image above. Using the multipl
 
 1. **Navigation Bar** - The text "UFO Sightings" text will refresh the page when clicked.
 2. **Page Header** - An image was used as background of the header for styling purposes.
-3. **Article Title** - An article was added to give the readers a background of what the page is about and to be able to grab their attention as well. Visiting a page with just a table and no customization would appear dull any reader/visitor.
+3. **Article Title** - An article was added to give the readers a background of what the page is about and to be able to grab their attention as well. Visiting a page with just a table and no customization would appear dull to any reader/visitor.
 4. **Article Paragraph** - The article paragraph was placed in line with the title to give the page an organized look.
 5. **Table Filters** - There are 5 search filters available to the user, namely, Date, City, State, Country, and Shape.
     - When the page is initially loaded, with the *index.html* file, it displays all of the table data. 
-    - There is a placeholder text in each search box to give the user a guide on the format of the data available for searching.
+    - There is a placeholder text in each search box to give the user a guide on the format of the terms available for searching.
     - User can input only one criteria for each filter and the data table on the right will update accordingly if there is a match with the user input. User has to click outside of the search box to see the change. User can input one, or fill in all of the search filters. Table will return data as long as combination of the searches have a match. If no data is returned, it means that user input does not have any match in the UFO sightings data.
    <p align="middle">
        <img src="https://github.com/samanthajpv/UFOs/blob/7e0129c23c57ffc3d0421a6d560b434ac91cd8d6/resources/search1.png" width="700" height="175"/>
